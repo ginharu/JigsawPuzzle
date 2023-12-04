@@ -1,0 +1,4 @@
+repository "JigsawPuzzle@ginharu_long@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
